@@ -62,18 +62,19 @@ public class MessageListActivity extends AppCompatActivity {
         String codegensytral = buf1.toString().replaceAll("(.{4})", "$1-");
         codegensytral = codegensytral.substring(0,codegensytral.length() -2);
 
-        //yeah i no but im lazy .
+        //yeah i no but i suckatjava
         int zzLimit = 48;
         int nnLimit = 57;
-        int strLength = 8;
-        StringBuilder buf = new StringBuilder(strLength);
-        for (int i = 0; i < strLength; i++) {
+        int phnLen = 8;
+        StringBuilder buf = new StringBuilder(phnLen);
+        for (int i = 0; i < phnLen; i++) {
             int randomLimitedInt = zzLimit + (int)
                     (random2.nextFloat() * (nnLimit - zzLimit + 1));
             buf.append((char) randomLimitedInt);
         }
+
         String rndphone = buf.toString();
-        String phonenbr = String.format("\n06%s",rndphone);
+        String phonenbr = String.format("\n06%s%s",rndphone,nbrRnd);
 
 
         int leftLimit = 48;

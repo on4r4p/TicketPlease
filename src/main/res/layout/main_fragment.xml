@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#141414"
+    tools:context="com.on4r4p.TicketPlease.MainActivity">
+
+    <ImageButton
+        android:id="@+id/tice"
+        android:layout_width="56dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="96dp"
+        android:layout_marginEnd="12dp"
+        android:background="@null"
+        android:elevation="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/sytral"
+        app:layout_constraintTop_toBottomOf="@+id/logotp"
+        app:srcCompat="@drawable/tice" />
+
+    <ImageButton
+        android:id="@+id/sytral"
+        android:layout_width="55dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="96dp"
+        android:background="@null"
+        android:elevation="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toStartOf="@+id/tice"
+        app:layout_constraintStart_toEndOf="@+id/ratp"
+        app:layout_constraintTop_toBottomOf="@+id/logotp"
+        app:srcCompat="@drawable/sytral" />
+
+    <ImageButton
+        android:id="@+id/ratp"
+        android:layout_width="48dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="96dp"
+        android:background="@null"
+        android:elevation="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toStartOf="@+id/sytral"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logotp"
+        app:srcCompat="@drawable/ratp" />
+
+    <ImageButton
+        android:id="@+id/keolis"
+        android:layout_width="48dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:background="@null"
+        android:elevation="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toStartOf="@+id/transdev"
+        app:layout_constraintStart_toEndOf="@+id/chronoplus"
+        app:layout_constraintTop_toBottomOf="@+id/logotp"
+        app:srcCompat="@drawable/keolis" />
+
+    <ImageButton
+        android:id="@+id/transdev"
+        android:layout_width="58dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="12dp"
+        android:background="@null"
+        android:elevation="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/keolis"
+        app:layout_constraintTop_toBottomOf="@+id/logotp"
+        app:srcCompat="@drawable/transdev" />
+
+    <ImageView
+        android:id="@+id/logotp"
+        android:layout_width="340dp"
+        android:layout_height="222dp"
+        android:layout_marginTop="4dp"
+        android:adjustViewBounds="false"
+        android:src="@drawable/paper"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/ticketplease"
+        android:layout_width="164dp"
+        android:layout_height="92dp"
+        android:layout_marginBottom="4dp"
+        android:background="@null"
+        android:backgroundTint="@null"
+        android:elevation="@null"
+        android:scaleType="centerInside"
+        android:src="@drawable/ticket"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Spinner
+        android:id="@+id/buspin"
+        android:layout_width="408dp"
+        android:layout_height="43dp"
+        android:layout_marginBottom="36dp"
+        android:prompt="@string/Select_Bus_Line"
+        android:textAlignment="center"
+        android:textColor="#FFFAFA"
+        app:layout_constraintBottom_toTopOf="@+id/ticketplease"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageButton
+        android:id="@+id/chronoplus"
+        android:layout_width="44dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:background="@null"
+        android:elevation="@null"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toStartOf="@+id/keolis"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logotp"
+        app:srcCompat="@drawable/logo_chronoplus" />
+</androidx.constraintlayout.widget.ConstraintLayout>

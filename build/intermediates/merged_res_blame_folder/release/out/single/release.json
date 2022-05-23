@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_tcl.jpg.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/tcl.jpg"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_transdev.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/transdev.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/layout_message_list_activity.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/layout/message_list_activity.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_logo_chronoplusround.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/logo_chronoplusround.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_ratp.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/ratp.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_roundtxt.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/roundtxt.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_paper.gif.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/paper.gif"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/layout_main_activity.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_png_transparent_emoji_smiley_youtube_happiness_flashlight_electronics_face_smiley.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/png_transparent_emoji_smiley_youtube_happiness_flashlight_electronics_face_smiley.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/raw_paperthem.mp3.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/raw/paperthem.mp3"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_keolis.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/keolis.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_roundedbtn.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/roundedbtn.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_transdev_background.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/transdev_background.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/layout_main_fragment.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_ticket.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/ticket.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/layout_item_chat_other.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/layout/item_chat_other.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_sytral.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/sytral.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/layout_recyclerview_row.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/layout/recyclerview_row.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_tice.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/tice.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable__e1dcc9b0e744397ba19cc02520fe5db.jpg.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/_e1dcc9b0e744397ba19cc02520fe5db.jpg"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/layout_item_chat_me.xml.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/layout/item_chat_me.xml"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_ilevia.jpg.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/ilevia.jpg"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/drawable_logo_chronoplus.jpg.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/drawable/logo_chronoplus.jpg"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

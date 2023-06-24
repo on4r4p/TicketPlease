@@ -116,7 +116,7 @@ public class MessageListActivity extends AppCompatActivity {
         headText.setText(dahead, TextView.BufferType.EDITABLE);
 
 
-        String chronotxthead = String.format("TXIK TXAK - 1H CHRONOPLUS\n" +
+        String chronotxthead = String.format("TXIK TXAK - 1.50H30min CHRONOPLUS\n" +
                 "avec corresp. / loturarekin\n" +
                 "Validité / Balio : %s - %s\n" +
                 "%s\n" +

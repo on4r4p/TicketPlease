@@ -5,9 +5,9 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="28"
+8        android:minSdkVersion="26"
 8-->/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="32" />
+9        android:targetSdkVersion="26" />
 9-->/mnt/e8b5fd5a-a074-4e90-858b-545325fae83e/AndroidStudio/MyApplication2/app/src/main/AndroidManifest.xml
 10
 11    <application

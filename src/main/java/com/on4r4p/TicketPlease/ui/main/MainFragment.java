@@ -3,6 +3,7 @@ package com.on4r4p.TicketPlease.ui.main;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.ImageDecoder;
+import com.bumptech.glide.Glide;
 import android.graphics.drawable.AnimatedImageDrawable;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
@@ -200,7 +201,7 @@ public class MainFragment extends Fragment implements AdapterView.OnItemSelected
 
         return rootView;
     }
-
+/*
     private void loadGif(ImageView iv){
 
         try {
@@ -220,6 +221,28 @@ public class MainFragment extends Fragment implements AdapterView.OnItemSelected
         }
 
     }
+*/
+private void loadGif(ImageView iv) {
+    if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.P) {
+        // Utiliser ImageDecoder
+        try {
+            ImageDecoder.Source source = ImageDecoder.createSource(getResources(), R.drawable.paper);
+            Drawable drawable = ImageDecoder.decodeDrawable(source);
+            iv.setImageDrawable(drawable);
+
+            if (drawable instanceof AnimatedImageDrawable) {
+                ((AnimatedImageDrawable) drawable).start();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    } else {
+        // Utiliser Glide
+        Glide.with(this)
+                .load(R.drawable.paper)
+                .into(iv);
+    }
+}
 
     @Override
     public void onItemSelected(AdapterView<?> arg0, View arg1, int position,long id) {
